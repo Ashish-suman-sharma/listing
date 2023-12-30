@@ -1,4 +1,4 @@
-clone this repo 
+git clone https://github.com/Ashish-suman-sharma/listing.git
 
 npm install
 
