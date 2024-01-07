@@ -15,12 +15,12 @@ CollageConnect is a simple and intuitive product listing website designed to con
 
 1. **Clone the repository:**
     ```bash
-    git clone <repo-url>
+    git clone https://github.com/Ashish-suman-sharma/listing.git
     ```
 
 2. **Navigate to the project directory:**
     ```bash
-    cd <repo-name>
+    cd listing
     ```
 
 3. **Install dependencies:**
